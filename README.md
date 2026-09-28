@@ -1,8 +1,9 @@
 # Hi, I'm Fanasina Harilanto 👋
 
-**IT Support Technician (Level 1–2)** with a systems and network mindset, and a **42 School** student building strong foundations in **C** and **Python**.
+**IT Student** with a systems and network mindset, and building strong foundations in **C** and **Python**, and **Networking**.
 
-I like keeping IT services running reliably: diagnosing problems at the root, configuring networks and systems, and writing clean, well-structured code.
+I like learning new technology especially about Networking: diagnosing problems at the root, configuring networks and systems, and providing a reliable solution to the problem.
+i want to go farther on Computer Networking...
 
 📍 Madagascar 🇲🇬
 
@@ -23,15 +24,14 @@ I like keeping IT services running reliably: diagnosing problems at the root, co
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### 🖥️ IT Support & Hardware
-- User support (level 1–2): computers, Internet access, printers and software
+### 🖥️ IT Hardware Skills
+- User support: computers, Internet access, printers and software
 - Hardware diagnostics and troubleshooting
 - Workstation installation and configuration
 - Preventive and corrective maintenance
-- PC assembly and repair
 
 ### 🌐 Networking
-- Configuration of routers, switches and access points
+- Basic configuration of routers, switches and access points
 - Network deployment and maintenance
 - Connectivity troubleshooting (LAN / Internet / printers)
 
@@ -40,13 +40,6 @@ I like keeping IT services running reliably: diagnosing problems at the root, co
 - Debian server setup in a VM (VirtualBox), LUKS disk encryption, user and group management
 - Web stack configuration: **lighttpd + MariaDB + PHP** (WordPress)
 - Debugging with `systemctl` and systemd service sandboxing
-
-### 💻 Programming
-- **C**: linked lists, string manipulation, POSIX threads, mutexes and scheduling (FIFO / EDF), Norminette-compliant code
-- **Python**: OOP (abstract classes, inheritance), static typing with **mypy** (strict), custom exceptions, generators, modular packages, BFS algorithms
-- **Web**: HTML, CSS, Bootstrap, JavaScript, PHP
-- **Tools**: Git / GitHub
----
 
 ## 🚀 Featured Projects
 
@@ -66,12 +59,6 @@ I like keeping IT services running reliably: diagnosing problems at the root, co
 - **Learn by doing**: I improve fastest by working through real systems and real code.
 - **Reliable and standards-driven**: Norminette in C, type-checked and readable Python, documented setups.
 - **Team-oriented**: I collaborate with peers, with clear roles and documentation.
-
----
-
-## 🌍 Languages
-
-🇬🇧 English· 🇫🇷 French
 
 ---
 
