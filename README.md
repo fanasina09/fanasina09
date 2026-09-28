@@ -59,8 +59,6 @@ I like keeping IT services running reliably: diagnosing problems at the root, co
 | **RPG Inventory System** | Python | Argument parsing, custom exceptions, and dictionary-based statistics (totals, percentages, most/least abundant items). |
 | **Data Processor** | Python (OOP) | Abstract `DataProcessor` base class with numeric, text, log and dict implementations. |
 
-> 🔗 Link each project name to its repository, e.g. `[Codexion](https://github.com/YOUR_USERNAME/codexion)`.
-
 ---
 
 ## 💡 How I Work
