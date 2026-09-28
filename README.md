@@ -47,30 +47,6 @@ I like keeping IT services running reliably: diagnosing problems at the root, co
 - **Python**: OOP (abstract classes, inheritance), static typing with **mypy** (strict), custom exceptions, generators, modular packages, BFS algorithms
 - **Web**: HTML, CSS, Bootstrap, JavaScript, PHP
 - **Tools**: Git / GitHub
-
----
-
-## 🎓 Training & Certifications
-
-- **Google IT Support Specialist**: Coursera (troubleshooting, networking, operating systems, user assistance)
-- **Cisco Networking Academy**: *Operating System Basics* and *Computer System Basics*
-- **Bidouille et maintenance informatique**: Orange Digital Center (computer architecture, hardware diagnostics and repair)
-- **PC Assembly and Repair**: Univers Info
-- **Web Development** (PHP, Bootstrap, JavaScript, HTML, CSS): Digital Training Center
-- **L2 in IT**: IT University
-- **42 School**: hands-on programming, algorithms and team-based problem solving
-- **TOEFL**: English C1 (Advanced)
-
----
-
-## 💼 Experience
-
-| Role | Where | What I did |
-|---|---|---|
-| **IT Technical & Network Support Intern** | Institut Pasteur de Madagascar (Nov 2024 – Feb 2025) | Helped users solve computer, Internet, printer and software issues to keep IT services running smoothly. |
-| **Data Operator** | SmartOne (Apr – May 2025) | Quality control and analysis of large datasets to improve data reliability for AI models. |
-| **Customer Advisor** | ADM Value (Aug – Nov 2022) | Handled customer requests quickly and professionally on the Transavia (aviation) project. |
-
 ---
 
 ## 🚀 Featured Projects
@@ -98,15 +74,7 @@ I like keeping IT services running reliably: diagnosing problems at the root, co
 
 ## 🌍 Languages
 
-🇬🇧 English: C1 (Advanced, TOEFL) · 🇫🇷 French: B2
-
----
-
-## 📫 Get in Touch
-
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [@FanasinaHarilanto](https://www.linkedin.com/in/FanasinaHarilanto)
-- Email: fanasinaharilanto09@gmail.com
+🇬🇧 English· 🇫🇷 French
 
 ---
 
