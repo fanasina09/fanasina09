@@ -61,7 +61,3 @@ i want to go farther on Computer Networking...
 - **Team-oriented**: I collaborate with peers, with clear roles and documentation.
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent" alt="GitHub stats" />
-</p>
