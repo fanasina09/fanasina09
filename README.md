@@ -208,10 +208,10 @@ My Credly profile is the source of truth for my earned digital badges.
 ## `06 / GITHUB ACTIVITY`
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=38BDF8&rank_icon=github" alt="GitHub statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Most-used programming languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fanasina09&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=38BDF8&rank_icon=github" alt="GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanasina09&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Most-used programming languages" />
   <br/><br/>
-  <img width="90%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&ring=38BDF8&fire=0284C7&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
+  <img width="90%" src="https://streak-stats.demolab.com?user=fanasina09&hide_border=true&background=0D1117&ring=38BDF8&fire=0284C7&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
 </div>
 
 ## `07 / CONNECT`
