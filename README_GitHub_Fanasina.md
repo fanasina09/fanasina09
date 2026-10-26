@@ -1,15 +1,3 @@
-<!--
-Fanasina Harilanto | GitHub Profile README
-
-SETUP
-1. Rename this file to README.md.
-2. Replace YOUR_GITHUB_USERNAME with your GitHub username everywhere.
-3. Create a public repository with the exact same name as your GitHub username.
-4. Upload README.md to the repository root.
-
-Only list skills you can explain and demonstrate. Update the learning/certification
-section to distinguish completed certificates from courses still in progress.
--->
 
 <div align="center">
 
@@ -18,7 +6,7 @@ section to distinguish completed certificates from courses still in progress.
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=IT+%26+Network+Engineering;Linux+%7C+Networking+%7C+System+Administration;C+%7C+Python+%7C+Infrastructure;Understanding+systems.+Building+solutions." alt="Animated technical introduction" />
 
 <p>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/fanasina09">
     <img src="https://img.shields.io/badge/GitHub-Systems%20%26%20Code-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" />
   </a>
   <a href="https://www.credly.com/users/fanasina-harilanto">
@@ -53,7 +41,7 @@ philosophy: "Learn by building. Understand by debugging."
 
 ## `01 / SYSTEM OVERVIEW`
 
-I work at the intersection of **IT infrastructure, networking, and software development**.
+I am an entry-level IT who is learning **IT infrastructure, networking, and Cybersecurity.**.
 
 My approach is hands-on: configure the system, understand the protocols, troubleshoot the failure, and document the solution.
 
@@ -112,6 +100,18 @@ My interests span end-user support and workstation maintenance, Linux services, 
 - Git and GitHub
 - Bash and Linux command-line workflows
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Cybersecurity Fundamentals
+- Cyber threats and attack vectors
+- Common vulnerabilities and exploits
+- Threat detection concepts
+- Data confidentiality and privacy
+- Cybersecurity best practices
+- Security awareness and risk reduction
 </td>
 </tr>
 </table>
@@ -179,13 +179,11 @@ Using Python to explore structured, reusable code:
 
 **Project-driven software engineering**
 
-Learning through programming projects, peer collaboration, and practical problem-solving. Current areas of practice include C, Python, algorithms, data structures, and software design.
+Learning through programming projects, peer collaboration, and practical problem-solving. Current areas of practice include C, Python, algorithms.
 
 ### Coursera — Google IT Support
 
 Technical learning in IT support, including troubleshooting, computer hardware, operating systems, networking, system administration, and security fundamentals.
-
-> Update this section to state whether the certificate is completed or still in progress. Only claim completed credentials that you have earned.
 
 ### Credly — Digital Credentials
 
@@ -193,7 +191,7 @@ Technical learning in IT support, including troubleshooting, computer hardware, 
   <img src="https://img.shields.io/badge/View-Credly%20Profile-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="View Credly profile" />
 </a>
 
-My Credly profile is the source of truth for my earned digital badges. Add individual badge names and verification links here once confirmed.
+My Credly profile is the source of truth for my earned digital badges.
 
 ## `05 / CURRENT FOCUS`
 
@@ -220,7 +218,7 @@ My Credly profile is the source of truth for my earned digital badges. Add indiv
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/fanasina09">
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://www.credly.com/users/fanasina-harilanto">
@@ -232,7 +230,7 @@ My Credly profile is the source of truth for my earned digital badges. Add indiv
 
 <br/><br/>
 
-**Build. Break. Debug. Understand. Repeat.**
+**Build. Break. Understand. Repeat.**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0369A1,50:0F172A,100:020617&height=100&section=footer" alt="Blue footer" />
 
