@@ -232,6 +232,6 @@ My Credly profile is the source of truth for my earned digital badges.
 
 **Build. Break. Understand. Repeat.**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0369A1,50:0F172A,100:020617&height=100&section=footer" alt="Blue footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0369,50:0F17,100:0206&height=100&section=footer" alt="Blue footer" />
 
 </div>
