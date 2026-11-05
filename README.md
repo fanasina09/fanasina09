@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:020617,50:0F172A,100:0369A1&text=FANASINA%20HARILANTO&fontColor=38BDF8&fontSize=36&fontAlignY=45&animation=twinkling&stroke=0284C7&strokeWidth=1" alt="Fanasina Harilanto" />
@@ -35,13 +34,14 @@ focus:
 learning:
   - 42 School
   - Coursera
+  - Cisco Networking Academy
 environment: Linux | Windows | WSL
 philosophy: "Learn by building. Understand by debugging."
 ```
 
 ## `01 / SYSTEM OVERVIEW`
 
-I am an entry-level IT who is learning **IT infrastructure, networking, and Cybersecurity.**.
+I am an entry-level IT professional learning **IT infrastructure, networking and cybersecurity**.
 
 My approach is hands-on: configure the system, understand the protocols, troubleshoot the failure, and document the solution.
 
@@ -106,12 +106,22 @@ My interests span end-user support and workstation maintenance, Linux services, 
 <td width="50%" valign="top">
 
 ### Cybersecurity Fundamentals
+
 - Cyber threats and attack vectors
 - Common vulnerabilities and exploits
 - Threat detection concepts
 - Data confidentiality and privacy
 - Cybersecurity best practices
 - Security awareness and risk reduction
+
+</td>
+<td width="50%" valign="top">
+
+### Cisco Training
+
+- Operating System Basics
+- Computer System Basics
+
 </td>
 </tr>
 </table>
@@ -122,11 +132,11 @@ My interests span end-user support and workstation maintenance, Linux services, 
 
 ## `03 / LABS & ENGINEERING WORK`
 
-I use projects to turn technical concepts into working implementations. This section should grow alongside my repositories.
+I use projects to turn technical concepts into working implementations. This section grows alongside my repositories.
 
-### Systems Administration — Linux / Born2beroot
+### Systems Administration — Linux / Born2beRoot
 
-Exploring secure Linux system administration in a virtualized environment:
+Secure Linux system administration in a virtualized environment:
 
 - User accounts, groups, and permissions
 - SSH configuration and access control
@@ -137,7 +147,7 @@ Exploring secure Linux system administration in a virtualized environment:
 
 ### Network Engineering — Configuration Labs
 
-Building practical knowledge of how hosts communicate across local networks:
+Practical knowledge of how hosts communicate across local networks:
 
 - IPv4 addressing and subnet calculations
 - VLAN segmentation in network simulations
@@ -147,28 +157,28 @@ Building practical knowledge of how hosts communicate across local networks:
 
 ### C Programming — 42 School
 
-Developing a deeper understanding of low-level programming and software fundamentals:
+A deeper understanding of low-level programming and software fundamentals:
 
 - Pointers and memory management
 - String manipulation and utility functions
 - Linked lists and data structures
-- Algorithms and problem decomposition
+- Threads, mutexes and scheduling (Codexion)
 - Compilation, Makefiles, and debugging
-- Coding standards and peer evaluation
+- Coding standards (norminette) and peer evaluation
 
 ### Python — Algorithms & Software Design
 
-Using Python to explore structured, reusable code:
+Structured, reusable code in Python:
 
 - Object-oriented programming
 - Collections and data structures
 - Algorithms, including graph traversal
+- LLM function calling with constrained decoding (call me maybe)
 - Type hints and static analysis
 - Exception handling and modular design
-- Debugging and code quality
 
 <div align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
+  <a href="https://github.com/fanasina09?tab=repositories">
     <img src="https://img.shields.io/badge/Explore-My%20Repositories-0284C7?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
   </a>
 </div>
@@ -177,13 +187,15 @@ Using Python to explore structured, reusable code:
 
 ### 42 School
 
-**Project-driven software engineering**
-
-Learning through programming projects, peer collaboration, and practical problem-solving. Current areas of practice include C, Python, algorithms.
+**Project-driven software engineering.** Learning through programming projects, peer collaboration, and practical problem-solving. Current areas of practice: C, Python, algorithms.
 
 ### Coursera — Google IT Support
 
-Technical learning in IT support, including troubleshooting, computer hardware, operating systems, networking, system administration, and security fundamentals.
+Troubleshooting, computer hardware, operating systems, networking, system administration, and security fundamentals.
+
+### Cisco — Networking Academy
+
+Operating System Basics and Computer System Basics.
 
 ### Credly — Digital Credentials
 
@@ -207,16 +219,40 @@ My Credly profile is the source of truth for my earned digital badges.
 
 ## `06 / GITHUB ACTIVITY`
 
-<!-- BEGIN ACTIVITY-GRAPH -->
+```bash
+fanasina@github:~$ git log --author="fanasina09" --since="1 year ago" --stat
+```
+
 <div align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=fanasina09&bg_color=020617&color=38BDF8&line=0284C7&point=7DD3FC&area=true&hide_border=true&custom_title=Contribution%20Activity"
-  alt="Animated GitHub contribution activity graph"
-/>
+<!-- Contribution graph -->
+<a href="https://github.com/fanasina09">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=fanasina09&theme=react-dark&bg_color=020617&color=38BDF8&line=0284C7&point=7DD3FC&area=true&area_color=0369A1&hide_border=true&radius=10&custom_title=Contribution%20Activity"
+    alt="GitHub contribution activity graph"
+    width="100%"
+  />
+</a>
+
+<br/>
+
+<!-- Stats row -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=fanasina09&show_icons=true&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=0284C7&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanasina09&layout=compact&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=C9D1D9&langs_count=6" alt="Top languages" />
+
+<br/>
+
+<!-- Streak -->
+<img height="165" src="https://streak-stats.demolab.com?user=fanasina09&theme=dark&hide_border=true&background=020617&stroke=0284C7&ring=38BDF8&fire=38BDF8&currStreakNum=38BDF8&sideNums=C9D1D9&currStreakLabel=7DD3FC&sideLabels=7DD3FC&dates=64748B" alt="GitHub streak" />
+
+<br/>
+
+<!-- Contribution calendar fallback -->
+<img src="https://ghchart.rshah.org/0284C7/fanasina09" alt="Contribution calendar" width="90%" />
 
 </div>
-<!-- END ACTIVITY-GRAPH -->
+
+> **Note:** the graph only shows data if your contributions are visible. On GitHub go to *Profile → Contribution settings* and enable **Private contributions**, and make sure the profile repository is named exactly `fanasina09` (same as your username) and is public.
 
 ## `07 / CONNECT`
 
@@ -236,6 +272,6 @@ My Credly profile is the source of truth for my earned digital badges.
 
 **Build. Break. Understand. Repeat.**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0369,50:0F17,100:0206&height=100&section=footer" alt="Blue footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:0369A1&height=100&section=footer" alt="Blue footer" />
 
 </div>
