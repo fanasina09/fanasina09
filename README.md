@@ -208,6 +208,25 @@ My Credly profile is the source of truth for my earned digital badges.
 ## `06 / GITHUB ACTIVITY`
 
 <!-- BEGIN ACTIVITY-GRAPH -->
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:020617,50:0F172A,100:0369A1&text=FANASINA%20HARILANTO&fontColor=38BDF8&fontSize=36&fontAlignY=45&animation=twinkling&stroke=0284C7&strokeWidth=1" alt="Fanasina Harilanto" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=IT+%26+Network+Engineering;Linux+%7C+Networking+%7C+System+Administration;C+%7C+Python+%7C+Infrastructure;Understanding+systems.+Building+solutions." alt="Animated technical introduction" />
+
+<p>
+  <a href="https://github.com/fanasina09">
+    <img src="https://img.shields.io/badge/GitHub-Systems%20%26%20Code-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" />
+  </a>
+  <a href="https://www.credly.com/users/fanasina-harilanto">
+    <img src="https://img.shields.io/badge/Credly-Digital%20Badges-0D1117?style=for-the-badge&logo=credly&logoColor=FF6B00" alt="Credly" />
+  </a>
+  <a href="https://www.coursera.org/">
+    <img src="https://img.shields.io/badge/Coursera-Technical%20Learning-0D1117?style=for-the-badge&logo=coursera&logoColor=38BDF8" alt="Coursera" />
+  </a>
+</p>
+
+</div>
 <!-- END ACTIVITY-GRAPH -->
 
 ## `07 / CONNECT`
